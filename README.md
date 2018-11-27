@@ -6,3 +6,5 @@ Download the files from the <a href="https://github.com/BeginTry/SQLtoExcel/rele
 
 <b>Other Notes</b><br/>
 SQLtoExcel.exe attempts to ignore “GO” batch separators. If there are #temp tables that span batches, you may encounter errors.
+<br/><br/>
+Blog Post with some screen grabs: <a href="http://itsalljustelectrons.blogspot.com/2018/11/Introducing-SQL-to-Excel.html">Introducing SQL-to-Excel</a>
